@@ -44,7 +44,7 @@ The project currently focuses on:
 ## Project Structure
 
 ```text
-AquilaFC/
+
 ├── docs/
 ├── hardware/
 ├── firmware/
