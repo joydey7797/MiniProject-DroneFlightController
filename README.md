@@ -81,10 +81,11 @@ Nabanita Barai, 34900323029
 
 Dibyendu Koley, 34900323017
 
-Nafiz Akhtar, 34900323031
+Nafiz Akhtar, 34900323030
 
 Irfan Haldar, 34900323018
 
+Neha Sarkar, 34900323031
 B.Tech Electronics and Communication Engineering
 
 ---
