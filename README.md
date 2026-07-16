@@ -1,52 +1,82 @@
 # AquilaFC
 
-A custom STM32H743-based flight controller hardware platform designed for autonomous UAV research and embedded flight-control development.
+AquilaFC is a custom STM32H743-based flight controller designed for autonomous UAV research and development.
+
+![Project Status](https://img.shields.io/badge/Status-Under%20Development-orange)
+
+
+---
 
 ## Overview
 
-AquilaFC is a custom flight controller project built around the STM32H743ZIT6 microcontroller.
+AquilaFC is a high-performance custom flight controller developed using the STM32H743ZIT6 microcontroller.
 
-The project currently focuses on:
+The project focuses on:
 
-- Flight controller schematic design
-- PCB design
-- STM32 pin configuration
-- Hardware interface planning
-- Embedded firmware architecture
+- Custom Flight Controller PCB
+- Embedded Firmware Development
+- Sensor Integration
+- Real-time Flight Control
+- Autonomous Navigation
 
-## Hardware
+---
 
-### Main MCU
+## Features
 
-- STM32H743ZIT6
-- ARM Cortex-M7
-- High-performance embedded processing
-
-### Interfaces
-
-- SPI
-- I2C
-- UART
-- CAN
-- PWM
-- ADC
-
-### Supported Peripherals
-
-- IMU
-- Barometer
-- Magnetometer
-- GPS
+- STM32H743ZIT6 (ARM Cortex-M7)
+- MPU6000 IMU
+- MS5611 Barometer
+- QMC5883L Magnetometer
+- SPI / I2C / UART
+- PWM ESC Outputs
+- RC Receiver Support
 - Telemetry
-- RC Receiver
-- ESC / Motor outputs
+- SD Card Logging
+- USB Programming
+- SWD Debugging
 
-## Project Structure
+---
 
-```text
+## Repository Structure
 
+```
+
+│
 ├── docs/
 ├── hardware/
 ├── firmware/
 ├── config/
 └── reports/
+```
+
+---
+
+## Development Tools
+
+- STM32CubeIDE
+- STM32CubeMX
+- Proteus 9.1
+- Git
+- GitHub
+
+---
+
+## Current Progress
+
+- [x] Hardware Planning
+- [x] Component Selection
+- [x] Schematic Design
+- [ ] PCB Fabrication
+- [ ] Firmware Development
+- [ ] Hardware Testing
+- [ ] Flight Testing
+
+---
+
+## Author
+
+Joy Dey
+
+B.Tech Electronics and Communication Engineering
+
+---
