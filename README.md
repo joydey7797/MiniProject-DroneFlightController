@@ -1,6 +1,6 @@
-# AquilaFC
+# FC
 
-AquilaFC is a custom STM32H743-based flight controller designed for autonomous UAV research and development.
+FC is a custom STM32H743-based flight controller designed for autonomous UAV research and development.
 
 ![Project Status](https://img.shields.io/badge/Status-Under%20Development-orange)
 
@@ -9,7 +9,7 @@ AquilaFC is a custom STM32H743-based flight controller designed for autonomous U
 
 ## Overview
 
-AquilaFC is a high-performance custom flight controller developed using the STM32H743ZIT6 microcontroller.
+FC is a high-performance custom flight controller developed using the STM32H743ZIT6 microcontroller.
 
 The project focuses on:
 
@@ -51,7 +51,6 @@ The project focuses on:
 
 ## Development Tools
 
-- STM32CubeIDE
 - STM32CubeMX
 - Proteus 9.1
 - Git
