@@ -73,7 +73,17 @@ The project focuses on:
 
 ## Author
 
-Joy Dey
+Nabajyoti Nag, 34900323028
+
+Joy Dey, 34900323019
+
+Nabanita Barai, 34900323029
+
+Dibyendu Koley, 34900323017
+
+Nafiz Akhtar, 34900323031
+
+Irfan Haldar, 34900323018
 
 B.Tech Electronics and Communication Engineering
 
