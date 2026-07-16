@@ -1,64 +1,26 @@
-# ==============================
-# STM32CubeIDE
-# ==============================
-
+# Build directories
 Debug/
 Release/
 
-*.elf
-*.hex
-*.bin
-*.map
-*.list
+# Object files
 *.o
 *.d
 *.su
 *.cyclo
 
-# ==============================
-# Eclipse / STM32CubeIDE
-# ==============================
+# Firmware outputs
+*.elf
+*.hex
+*.bin
+*.map
+*.list
 
-.metadata/
-.settings/
-*.launch
-
-# ==============================
-# Temporary Files
-# ==============================
-
-*.tmp
-*.temp
-*.bak
+# Logs
 *.log
-*.swp
 
-# ==============================
-# Operating System
-# ==============================
-
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# ==============================
 # VS Code
-# ==============================
-
 .vscode/
 
-# ==============================
-# Proteus Backup Files
-# ==============================
-
-*.pdsbak
-Backup/
-Project Backups/
-
-# ==============================
-# Generated Output
-# ==============================
-
-build/
-dist/
-output/
+# Windows
+Thumbs.db
+desktop.ini
