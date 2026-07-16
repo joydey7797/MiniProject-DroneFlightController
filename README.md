@@ -40,13 +40,11 @@ The project focuses on:
 ## Repository Structure
 
 ```
-
-│
 ├── docs/
 ├── hardware/
 ├── firmware/
 ├── config/
-└── reports/
+
 ```
 
 ---
@@ -66,6 +64,7 @@ The project focuses on:
 - [x] Hardware Planning
 - [x] Component Selection
 - [x] Schematic Design
+- [x] PCB Design
 - [ ] PCB Fabrication
 - [ ] Firmware Development
 - [ ] Hardware Testing
