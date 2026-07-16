@@ -118,8 +118,4 @@ stm32h743ZIT6:
     osc_in:  "PH0-OSC_IN (PH0)"
     osc_out: "PH1-OSC_OUT (PH1)"
 
-  system:
-    systick:    VP_SYS_VS_Systick
-    memorymap:  VP_MEMORYMAP_VS_MEMORYMAP
-    tim1_clock: VP_TIM1_VS_ClockSourceINT
-    tim4_clock: VP_TIM4_VS_ClockSourceINT
+  

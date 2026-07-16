@@ -24,9 +24,9 @@ The project focuses on:
 ## Features
 
 - STM32H743ZIT6 (ARM Cortex-M7)
-- MPU6000 IMU
-- MS5611 Barometer
-- QMC5883L Magnetometer
+- ICM-40609-D IMU
+- BMP390 Barometer
+-  MMC5983MA  Magnetometer
 - SPI / I2C / UART
 - PWM ESC Outputs
 - RC Receiver Support
