@@ -9,6 +9,8 @@ FC is a custom STM32H743-based flight controller designed for autonomous UAV res
 
 ## Overview
 
+![board_render](./docs/PcbDesignImages/Pcb3Dview.png)
+
 FC is a high-performance custom flight controller developed using the STM32H743ZIT6 microcontroller.
 
 The project focuses on:
